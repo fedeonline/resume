@@ -1,0 +1,31 @@
+baseURL = "https://fedeonline.github.io"
+languageCode = "en-us"
+title = "About me"
+theme = "resume"
+
+[params]
+    firstName = "Federico"
+    lastName = "Pugnaloni"
+    address = "Ancona, AN"
+    profileImage = "img/me.jpg"
+    email = "federico.pugnaloni@gmail.com"
+    description = "Full-stack Developer with experience leveraging agile and DevOps to manage distributed platforms in the cloud especially on AWS."
+    favicon = "images/favicon.ico"
+
+    # what sections to display.  Setting to false disables navigation and section.
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showCertifications = true
+
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/federicopugnaloni/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/fedeonline/"

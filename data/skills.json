@@ -1,0 +1,62 @@
+[
+    {
+        "grouping":"Operating Systems",
+        "skills":[ 
+            "Linux",
+            "Apple",
+            {
+                "name": "Windows Server",
+                "icon": "windows"
+            }
+        ]
+    },
+    {
+        "grouping":"Languages",
+        "skills":[ "Ruby","Javascript","Python",
+            {
+                "name": "Bash",
+                "icon": "terminal_badge"
+            }, "Go", "Solidity"
+        ]
+    },
+    {
+        "grouping":"Frameworks & Tools",
+        "skills":[ {
+                "name": "Ruby on rails",
+                "icon": "ruby_on_rails"
+            },{
+                "name": "AngularJS",
+                "icon": "angular"
+            },
+            {
+                "name": "Node.js",
+                "icon": "nodejs"
+            },
+            "React", "Bootstrap", "jQuery"
+        ]
+    },
+    {
+    "grouping":"Databases",
+        "skills":[ "PostgreSQL", "MongoDB", "Redis" ]
+    },
+    {
+        "grouping":"Platforms",
+        "skills":[ "Firebase",  
+            {
+                "name": "Ethereum",
+                "crypto": "eth"
+            }, 
+            "Loom SDKs"
+        ]
+    },
+    {
+      "grouping":"Containers, Cloud & Administration",
+        "skills":[ "AWS", 
+            {
+                "name": "Google Cloud",
+                "icon": "google-cloud-platform"
+            },
+            "Bitbucket", "Git", "Trello", "Docker"
+        ]
+    }
+  ]

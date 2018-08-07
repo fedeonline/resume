@@ -1,0 +1,44 @@
+[
+    {
+        "role":"Senior Full-stack Developer",
+        "company":"StreetLib srl Loreto, AN, Italy",
+        "summary":"Write production code in Ruby, Node.js, AngularJS and React. Build Ruby on Rails application from the ground up. Manage AWS infrastrucure.",
+        "range":"February 2014 - Present"
+    },
+    {
+        "role":"Chief Technology Officer",
+        "company":"Simplicissimus Book Farm Loreto, AN, Italy",
+        "summary":"Supervisor of the entire software development cycle, from the analysis of user needs to prototyping and implementation. Head of the developer team. I wrote production code in Ruby and Python. I wrote functional, unit and integration tests for the quality assurance of applications.",
+        "range":"March 2013 - February 2014"
+    },
+    {
+        "role":"Project Manager Mobile Apps",
+        "company":"Simplicissimus Book Farm Loreto, AN, Italy",
+        "summary":"Supervisor of the mobile application development lifecycle, from analysis, to design and implementation. Head of the mobile app developer team. I wrote production code in Objective C and Ruby.",
+        "range":"October 2010 - March 2013"
+    },
+    {
+        "role":"System Administrator",
+        "company":"3Tech s.r.l. Ancona, AN, Italy",
+        "summary":"Linux and Windows senior system administrator. Network Security and Server Virtualization Specialist. I wrote production code in PHP using the Codeignitor Framework.",
+        "range":"October 2005 - October 2010"
+    },
+    {
+        "role":"Security and Network Specialist",
+        "company":"SITT s.r.l. Ancona, AN, Italy",
+        "summary":"Network and Security Specialist. Linux senior system administrator. As a side project, I designed, developed and managed the entire life cycle of SITTmon development. SITTmon was a proactive network monitor hardware platform based on a custom BSD distro.",
+        "range":"June 2002 - October 2005"
+    },
+    {
+        "role":"System Administrator & Network Engineer",
+        "company":"FASTnet S.p.A Ancona, AN, Italy",
+        "summary":"FASTnet was one of the first italian Internet Service Provider. Here I worked as a network and security specialist and as a Linux and Unix system administrator.",
+        "range":"1995 - June 2002"
+    },
+    {
+        "role":"Junior Developer",
+        "company":"MediaWorks s.a.s. Ancona, AN, Italy",
+        "summary":"Software development, desktop publishing, computer graphics, computer animation, and digital video editing.",
+        "range":"1991 - 1995"
+    }
+]
