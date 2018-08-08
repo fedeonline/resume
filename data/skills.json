@@ -16,7 +16,7 @@
             {
                 "name": "Bash",
                 "icon": "terminal_badge"
-            }, "Go", "Solidity"
+            }, "Go"
         ]
     },
     {
@@ -41,13 +41,7 @@
     },
     {
         "grouping":"Platforms",
-        "skills":[ "Firebase",  
-            {
-                "name": "Ethereum",
-                "crypto": "eth"
-            }, 
-            "Loom SDKs"
-        ]
+        "skills":[ "Firebase" ]
     },
     {
       "grouping":"Containers, Cloud & Administration",
