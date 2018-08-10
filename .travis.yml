@@ -8,7 +8,7 @@ install:
   - rm -rf public || exit 0
 
 script:
-  - ../bin/hugo
+  - ./bin/hugo
 
 deploy:
   provider: pages
