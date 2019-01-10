@@ -16,7 +16,7 @@
             {
                 "name": "Bash",
                 "icon": "terminal_badge"
-            }, "Go"
+            }, "Go", "Dart"
         ]
     },
     {
@@ -33,6 +33,18 @@
                 "icon": "nodejs"
             },
             "React", "Bootstrap", "jQuery"
+        ]
+    },
+    {
+        "grouping":"Mobile Development",
+        "skills":[ {
+            "name": "React Native",
+            "icon": "react"
+        },{
+            "name": "Flutter",
+            "icon": "dart"
+        },
+            "Swift" 
         ]
     },
     {
