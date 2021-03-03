@@ -1,9 +1,15 @@
 [
     {
+        "role":"Senior Developer & IoT Architect",
+        "company":"MAC srl Recanati, AN, Italy",
+        "summary":"I successfully manage serverless applications in production on the AWS platform. I write code in Node.js and have excellent skills in using the AWS Amplify framework. Excellent operational knowledge of IoT services on the AWS platform. I am also involved in building mobile applications from scratch using Kotlin, Dart and Flutter.",
+        "range":"June 2019 - Present"
+    },
+   {
         "role":"Senior Full-stack Developer",
         "company":"StreetLib srl Loreto, AN, Italy",
-        "summary":"Write production code in Ruby, Node.js, AngularJS and React. Build Ruby on Rails application from the ground up. Manage AWS infrastrucure.",
-        "range":"February 2014 - Present"
+        "summary":"I wrote production code in Ruby, Node.js, AngularJS and React. I built Ruby on Rails application from the ground up and managed continuous deployment on the AWS cloud infrastrucure.",
+        "range":"February 2014 - June 2019"
     },
     {
         "role":"Chief Technology Officer",
@@ -20,7 +26,7 @@
     {
         "role":"System Administrator",
         "company":"3Tech s.r.l. Ancona, AN, Italy",
-        "summary":"Linux and Windows senior system administrator. Network Security and Server Virtualization Specialist. Wrote production code in PHP using the Codeignitor Framework.",
+        "summary":"Linux and Windows senior system administrator. Network Security and Server Virtualization Specialist. I wrote production code in PHP using the Codeignitor Framework.",
         "range":"October 2005 - October 2010"
     },
     {

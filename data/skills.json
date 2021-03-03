@@ -25,14 +25,17 @@
                 "name": "Ruby on rails",
                 "icon": "ruby_on_rails"
             },{
-                "name": "AngularJS",
-                "icon": "angular"
+                "name": "React",
+                "icon": "react"
             },
             {
                 "name": "Node.js",
                 "icon": "nodejs"
             },
-            "React", "Bootstrap", "jQuery"
+            "AWS Amplify", {
+                "name": "AngularJs",
+                "icon": "angular"
+            }
         ]
     },
     {
@@ -49,20 +52,40 @@
     },
     {
     "grouping":"Databases",
-        "skills":[ "PostgreSQL", "MongoDB", "Redis" ]
+        "skills":[ "PostgreSQL", {
+            "name": "DynamoDB",
+            "icon": "database"
+        } ]
     },
     {
         "grouping":"Platforms",
-        "skills":[ "Firebase" ]
+        "skills":[ {
+            "name": "AWS IoT core",
+            "icon": "aws"
+        },{
+            "name": "AWS AppSync",
+            "icon": "aws"
+        },"Firebase" ]
     },
     {
       "grouping":"Containers, Cloud & Administration",
-        "skills":[ "AWS", 
+        "skills":[
             {
+                "name": "AWS",
+                "icon": "aws"
+            },{
                 "name": "Google Cloud",
                 "icon": "google-cloud-platform"
             },
-            "Bitbucket", "Git", "Trello", "Docker"
+            {
+                "name": "Bitbucket",
+                "icon": "bitbucket"
+            },
+            {
+                "name": "Git",
+                "icon": "git"
+            },
+            "Trello", "Docker"
         ]
     }
   ]
