@@ -3,7 +3,10 @@
         "grouping":"Operating Systems",
         "skills":[ 
             "Linux",
-            "Apple",
+            {
+                "name": "macOS",
+                "icon": "apple"
+            },
             {
                 "name": "Windows Server",
                 "icon": "windows"
