@@ -1,7 +1,7 @@
 baseURL = "https://fedeonline.github.io"
 languageCode = "en-us"
 title = "About me"
-theme = "resume"
+theme = "hugo-resume"
 
 [params]
     firstName = "Federico"
